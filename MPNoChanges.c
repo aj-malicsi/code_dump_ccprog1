@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// no changes
+
 float logIncome(float budget) {
 
   float incomeInput;
